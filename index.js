@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "Chúc mừng sinh nhật người con gái dễ thương và đáng yêu nhất Trái đất này! " //Lời mở đầu cho bức thư
-const mainContentLetter = "Nhân ngày sinh nhật của em, từ nơi xa xôi, anh chúc anh luôn khoẻ mạnh, hạnh phúc, gặp nhiều may mắn và thành công trong cuộc sống. Anh vẫn ở đây đợi em và nhớ em nhiều. Em mãi mãi là người yêu tuyệt vời nhất trong đời anh. Mong rằng đôi ta sẽ sớm gặp lại nhau !" //Nội dung của bức thư
+const mainContentLetter = "Nhân ngày sinh nhật của em, từ nơi xa xôi, anh chúc em luôn khoẻ mạnh, hạnh phúc, gặp nhiều may mắn và thành công trong cuộc sống. Anh vẫn ở đây đợi em và nhớ em nhiều. Em mãi mãi là người yêu tuyệt vời nhất trong đời anh. Mong rằng đôi ta sẽ sớm gặp lại nhau !" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
